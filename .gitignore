@@ -1,0 +1,23 @@
+# Blender Backup Files (Auto-generated when saving)
+*.blend1
+*.blend2
+*.blend3
+
+# Blender Auto-saves and Crash Recovery
+*.blend@
+quit.blend
+*.crash.txt
+crash.txt
+
+# Physics and Simulation Caches (Fluid, Smoke, Cloth, etc.)
+blendcache_*/
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
