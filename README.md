@@ -2,9 +2,9 @@
 
 A short 3D animation of La Fontaine's fable _Le Corbeau et le Renard_ (The Crow and the Fox), modelled, rigged and animated in Blender.
 
-![A low-poly fox on the grass looking up at the crow, which holds the cheese in its beak on a tree branch](models/environment.png)
+[![A low-poly fox on the grass looking up at the crow, which holds the cheese in its beak on a tree branch](models/environment.png)](https://youtu.be/LKRVYeGxHF0)
 
-▶️ [Watch the animation](animation/animation.mp4) (1080p, 19 s)
+▶️ [Watch the animation on YouTube](https://youtu.be/LKRVYeGxHF0) (19 s)
 
 ## Requirements
 
